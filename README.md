@@ -4,8 +4,8 @@ version: "2.0"
 language: "Bengali"
 platform: "Remotion 4"
 framework: "React"
-video_format: "9:16"
-resolution: "1080x1920"
+video_format: "16:9"
+resolution: "1920x1080"
 fps: 30
 mandatory_input:
   - "SRT subtitle file"
